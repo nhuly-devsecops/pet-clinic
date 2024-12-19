@@ -2,7 +2,7 @@ name: Workflow
 on:
   push:
     branches:
-      - feature-clase1
+      - main
 
 jobs:
   SAST:
