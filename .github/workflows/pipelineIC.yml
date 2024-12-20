@@ -43,6 +43,7 @@ jobs:
             exit 1
           fi
 
+
       - name: Validando existencia de proyecto en SonarCloud
         id: validateProjectOnSonar
         run: |
